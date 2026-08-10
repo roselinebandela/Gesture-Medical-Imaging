@@ -1,0 +1,42 @@
+{
+  "normal_1.jpg": {
+    "title": "File:Normal posteroanterior (PA) chest radiograph (X-ray).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Normal_posteroanterior_%28PA%29_chest_radiograph_%28X-ray%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "width": 1929,
+    "height": 2207,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artist": "Mikael H\u00e4ggstr\u00f6m",
+    "source": "https://commons.wikimedia.org/wiki/File:Normal_posteroanterior_(PA)_chest_radiograph_(X-ray).jpg"
+  },
+  "normal_2.jpg": {
+    "title": "File:Chest X-ray 2346.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Chest_X-ray_2346.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "width": 2026,
+    "height": 2743,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artist": "Doctoroftcm",
+    "source": "https://commons.wikimedia.org/wiki/File:Chest_X-ray_2346.jpg"
+  },
+  "pneumonia.jpg": {
+    "title": "File:Chest radiograph in influensa and H influenzae, posteroanterior.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Chest_radiograph_in_influensa_and_H_influenzae%2C_posteroanterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "width": 1163,
+    "height": 1010,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artist": "Mikael H\u00e4ggstr\u00f6m, M.D. Author info - Reusing images- Conflicts of interest:\u00a0 None\nMikael H\u00e4ggstr\u00f6m, M.D.Consent note: Written informed consent was obtained from the individual, including online publication.",
+    "source": "https://commons.wikimedia.org/wiki/File:Chest_radiograph_in_influensa_and_H_influenzae,_posteroanterior.jpg"
+  },
+  "pleural_effusion.jpg": {
+    "title": "File:Chest radiograph of a lung with Kerley B lines.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Chest_radiograph_of_a_lung_with_Kerley_B_lines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "width": 1222,
+    "height": 1097,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artist": "Mikael H\u00e4ggstr\u00f6m",
+    "source": "https://commons.wikimedia.org/wiki/File:Chest_radiograph_of_a_lung_with_Kerley_B_lines.jpg"
+  }
+}

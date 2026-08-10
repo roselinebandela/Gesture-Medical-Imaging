@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Model weight caches (torchxrayvision downloads these on first run)
+models/
+*.pth
+*.pth.tar
+
+# Runtime output
+screenshots/*.png
+!screenshots/.gitkeep
+
+.DS_Store
+Thumbs.db
