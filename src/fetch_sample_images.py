@@ -1,10 +1,3 @@
-"""Fetch real, openly-licensed sample chest X-rays from Wikimedia Commons.
-
-Replaces the old cartoon-ellipse generator with actual radiographs so the AI
-engine has something meaningful to analyze. Only images with a clearly open
-license (CC0, public domain, or CC-BY/CC-BY-SA — anything permitting reuse
-with at most attribution) are kept, and attribution is recorded for each.
-"""
 import html
 import json
 import re
