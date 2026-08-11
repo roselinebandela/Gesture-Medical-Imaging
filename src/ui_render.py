@@ -1,10 +1,3 @@
-"""Crisp text and simple vector icons for the OpenCV UI.
-
-cv2.putText's built-in Hershey fonts are blocky and have no emoji glyphs at
-all (emoji drawn with cv2.putText render as blank boxes). This module renders
-text through PIL using real Segoe UI font weights, and draws small flat icons
-with OpenCV primitives instead of relying on emoji.
-"""
 from pathlib import Path
 
 import cv2
