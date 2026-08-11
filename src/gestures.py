@@ -1,11 +1,3 @@
-"""Gesture recognition from MediaPipe hand landmarks.
-
-All distance thresholds are scaled by the hand's own size (wrist-to-middle-
-knuckle distance) instead of fixed pixel counts, so gestures work whether the
-hand is close to the camera or far away. Finger-extended checks compare each
-fingertip's distance from the wrist against its knuckle's distance from the
-wrist, which tolerates hand rotation far better than a raw y-coordinate check.
-"""
 import math
 import time
 from collections import deque
