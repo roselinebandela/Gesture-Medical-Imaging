@@ -1,14 +1,3 @@
-"""Cartoon chest X-ray shapes for UI/gesture testing only.
-
-These are drawn with OpenCV primitives (ellipses, lines) — they are not real
-anatomy and the AI engine's predictions on them are not meaningful. Useful
-only for exercising the gesture/zoom/viewer UI without a webcam pointed at
-real images. For an actually meaningful AI demo, use fetch_sample_images.py
-instead, which downloads real openly-licensed radiographs.
-
-Output goes to images/synthetic/ (not images/) so it never overwrites the
-real sample set used by default.
-"""
 import numpy as np
 import cv2
 from pathlib import Path
