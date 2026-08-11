@@ -1,19 +1,3 @@
-"""Real chest X-ray pathology detection.
-
-Uses torchxrayvision's pretrained DenseNet121 (trained on the NIH
-ChestX-ray14 dataset) for real pathology scores, plus a Grad-CAM heatmap
-computed from the model's real gradients — no brightness heuristics, no
-fabricated heatmap shapes.
-
-A caveat worth being upfront about: these scores are calibrated per-pathology
-against an operating threshold (`model.op_threshs`), not a single shared
-probability scale, so most classes cluster near 0.5 on almost any input.
-Comparing scores *within one image* (which pathology stands out relative to
-the others) is far more meaningful than reading any single score as "chance
-of disease." `analyze()` ranks findings by that relative standout (a z-score
-across the image's own pathology scores) rather than by raw score alone.
-This is a research-grade demo model, not a diagnostic device.
-"""
 from __future__ import annotations
 
 from dataclasses import dataclass
