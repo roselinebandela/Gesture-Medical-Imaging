@@ -1,9 +1,3 @@
-"""Gesture-controlled chest X-ray viewer with real AI pathology detection.
-
-Touchless navigation via webcam hand gestures (see print_controls below),
-paired with an actual pretrained chest X-ray classifier and Grad-CAM heatmap
-from ai_engine.py. This is a research/demo tool, not a diagnostic device.
-"""
 import time
 from datetime import datetime
 from pathlib import Path
